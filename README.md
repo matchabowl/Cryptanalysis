@@ -1,7 +1,7 @@
 # Some CTF solutions
 
 ## Context
-These files are solutions to CTF-style tasks given to us in a class on Cryptanalysis. Note that since these tasks required access to specific files or servers, the code does not run as is. Furthermore, some of these tasks require SageMath, an open Source Computer Algebra system based on Python.
+These files are solutions to CTF-style Cryptography tasks. Note that since these tasks required access to specific files or servers, the code does not run as is. Furthermore, some of these tasks require SageMath, an open Source Computer Algebra system based on Python.
 
 ## Challenges
 * Given a Viginère encrypted file that is significantly longer than the key, recover the key
